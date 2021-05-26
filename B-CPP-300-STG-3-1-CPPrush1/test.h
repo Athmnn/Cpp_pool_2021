@@ -1,0 +1,10 @@
+/*
+** EPITECH PROJECT, 2024
+** B_CPP_300_STG_3_1_CPPrush1_antony_fantapie
+** File description:
+** Created by auguste,
+*/
+#ifndef B_CPP_300_STG_3_1_CPPRUSH1_ANTONY_FANTAPIE_TEST_H
+#define B_CPP_300_STG_3_1_CPPRUSH1_ANTONY_FANTAPIE_TEST_H
+
+#endif //B_CPP_300_STG_3_1_CPPRUSH1_ANTONY_FANTAPIE_TEST_H
